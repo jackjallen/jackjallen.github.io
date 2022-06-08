@@ -7,39 +7,7 @@ author_profile: true
 <!-- {% raw %} -->
 <div id="app">
     <div>
-      <p>Filter to software meeting any of the following criteria:</p>
-      <ul>
-        <li class="checkboxlist">
-        <label class="container">R package
-            <input type="checkbox" v-model="show.rpkg">
-            <span class="checkmark"></span>
-        </label>
-        </li>
-        <li class="checkboxlist">
-        <label class="container">Stata module
-            <input type="checkbox" v-model="show.stata">
-            <span class="checkmark"></span>
-        </label>
-        </li>
-        <li class="checkboxlist">
-            <label class="container">GUI
-                <input type="checkbox" v-model="show.gui">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-        <li class="checkboxlist">
-            <label class="container">Statistics
-                <input type="checkbox" v-model="show.statistics">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-        <li class="checkboxlist">
-            <label class="container">Psychology
-                <input type="checkbox" v-model="show.psychology">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-      </ul>
+     
     </div>
     <div v-for="sof in softw">
         <h2>{{ sof.name }}</h2>
