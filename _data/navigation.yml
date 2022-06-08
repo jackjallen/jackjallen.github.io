@@ -2,7 +2,7 @@
 main:
   - title: Publications
     url: /publications/
-  - title: Teaching
+  - title: TeachingEdit
     url: /teaching/
   - title: Code
     url: /code/
