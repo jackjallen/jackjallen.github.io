@@ -1,7 +1,7 @@
 ---
-title: Teaching
+title: Presentations
 layout: academic
 author_profile: true
 ---
 
-Teaching
+Presentations
