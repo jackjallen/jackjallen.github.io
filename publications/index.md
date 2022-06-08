@@ -14,28 +14,7 @@ author_profile: true
             v-bind="yearslider"
           ></Slider>
       </p>
-      <p>Filter to papers meeting any of the following criteria:</p>
-      <ul>
-        <li class="checkboxlist">
-            Authorship
-            <label class="container">First
-                <input type="checkbox" v-model="show.first">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-        <li class="checkboxlist">
-            Status
-            <label class="container">Published
-                <input type="checkbox" v-model="show.published">
-                <span class="checkmark"></span>
-            </label>
-            <label class="container">In preparation
-                <input type="checkbox" v-model="show.inprep">
-                <span class="checkmark"></span>
-            </label>
-        </li>
-      </ul>
-    </div>
+          </div>
     <div v-for="yr in [...new Set(publ.map(a => a.year))].sort().reverse()">
       <h2>{{ yr }}</h2>
       <ul class="publist">
