@@ -17,26 +17,11 @@ author_profile: true
       <p>Filter to papers meeting any of the following criteria:</p>
       <ul>
         <li class="checkboxlist">
-        Type
-#        <label class="container">Empirical
-#            <input type="checkbox" v-model="show.empirical">
-#            <span class="checkmark"></span>
-#        </label>
-#        <label class="container">Methods
-#            <input type="checkbox" v-model="show.methods">
-#            <span class="checkmark"></span>
-#        </label>
-        </li>
-        <li class="checkboxlist">
             Authorship
             <label class="container">First
                 <input type="checkbox" v-model="show.first">
                 <span class="checkmark"></span>
             </label>
-   #         <label class="container">Senior
-   #             <input type="checkbox" v-model="show.last">
-   #             <span class="checkmark"></span>
-   #         </label>
         </li>
         <li class="checkboxlist">
             Status
