@@ -22,8 +22,8 @@ name                     : "Jack Allen"
 description:  > # this means to ignore newlines until "baseurl:"
 #  Research on machine learning, experimental design, economic inequality, and optimal policy
 url                      : "https://jackjallen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/academic-website-template" # the subpath of your site, e.g. "/blog", use "/" if root
-repository               : "psolymos/academic-website-template" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog", use "/" if root
+repository               : "jackjallen/jackjallen.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/avatar.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
