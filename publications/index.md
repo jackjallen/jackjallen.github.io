@@ -4,10 +4,12 @@ layout: academic
 author_profile: true
 ---
 
-## Publications
+## PhD Thesis
+J. Allen. “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
+
+## Journal Articles
 J. Allen, …, Sonya V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (submitted February 2022, currently under review).
 
-J. Allen. “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
 A. Suinesiaputra, …, J.Allen, …, P. Medrano-Gracia. “Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge”. IEEE Journal of Biomedical and Health Informatics, 2018.
 
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Venctricular Shapes Using a Random Forest”. Camara O., Mansi T., Pop M., Rhode K., Sermesant M., Young A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. Lecture Notes in Computer Science, 2016.
