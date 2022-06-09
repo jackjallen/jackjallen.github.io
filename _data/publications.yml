@@ -2,6 +2,15 @@
 # --------------------------- 2021 ---------------------------
 #
 
+#Allen, J. (2019). An optimisation framework for magnetic resonance fingerprinting [PhD thesis]. University of Oxford.
+- id: Allen2019
+  text: "An Optimisation Framework for Magnetic Resonance Fingerprinting"
+  year: 2019
+  webapplink: https://ora.ox.ac.uk/objects/uuid:14c92874-7b00-4f79-abce-87b05f9cb4d4
+  
+  
+
+## Example:
 #- id: Mathur2021a
 #  text: "Mathur MB, Peacock J, Reichling DB, Nadler J, Bain PA, Gardner CD, Robinson TN (2021). Interventions to reduce meat consumption by appealing to animal welfare: Meta-analysis and evidence-based recommendations. Appetite. In press."
 #  year: 2021
