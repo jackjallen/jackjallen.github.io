@@ -2,9 +2,11 @@
 main:
   - title: Publications
     url: /publications/
-  - title: Teaching
-    url: /teaching/
+  - Title: Talks
+    url: /Talks/
   - title: Code
     url: /code/
   - title: CV
     url: /cv/
+  - title: Links
+    url: /Links/
