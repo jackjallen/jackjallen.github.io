@@ -16,6 +16,11 @@
   webappname: "doi"
   webapplink: "10.1109/JBHI.2017.2652449"
   
+- id: Allen2016
+  text: Allen, J., Zacur, E., Dall’Armellina, E., Lamata, P., Grau, V. (2016). Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest. In: Camara, O., Mansi, T., Pop, M., Rhode, K., Sermesant, M., Young, A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. STACOM 2015. Lecture Notes in Computer Science(), vol 9534. Springer, Cham. https://doi.org/10.1007/978-3-319-28712-6_20"
+  year: 2016
+  webappname: doi
+  webapplink: "https://doi.org/10.1007/978-3-319-28712-6_20"
   
   
   
