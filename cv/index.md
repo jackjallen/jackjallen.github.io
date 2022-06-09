@@ -10,9 +10,8 @@ Jack Allen
 
 **Work Experience**
 
-September 2019 – April 2022. Research Associate
-
-Postdoctoral researcher in Cardiac Magnetic Resonance (CMR) physics at the Royal Brompton Hospital (London, UK).
+September 2019 – April 2022. Research Associate.
+- Postdoctoral researcher in Cardiac Magnetic Resonance (CMR) physics at the Royal Brompton Hospital (London, UK).
 Contract held with Imperial College London, through the National Heart and Lung Institute (NHLI).
 
 **Education**
