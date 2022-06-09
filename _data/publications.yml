@@ -7,20 +7,20 @@
 - id: Allen2019
   text: "Allen, J. (2019). An optimisation framework for magnetic resonance fingerprinting [PhD thesis]. University of Oxford."
   year: 2019
-  webappname: "Online Access"
+  webappname: "PhD Thesis: Online Access"
   webapplink: "https://ora.ox.ac.uk/objects/uuid:14c92874-7b00-4f79-abce-87b05f9cb4d4"
 
 #A. Suinesiaputra et al., "Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge," in IEEE Journal of Biomedical and Health Informatics, vol. 22, no. 2, pp. 503-515, March 2018, doi: 10.1109/JBHI.2017.2652449.
 - id: Suinesiaputra2017
   text: "A. Suinesiaputra et al., Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge, in IEEE Journal of Biomedical and Health Informatics, vol. 22, no. 2, pp. 503-515, March 2018, doi: 10.1109/JBHI.2017.2652449."
   year: 2017
-  webappname: "Online Access"
+  webappname: "IEEE Journal of Biomedical and Health Informatics: Online Access"
   webapplink: "https://doi.org/10.1109/JBHI.2017.2652449"
   
 - id: Allen2016
   text: "Allen, J., Zacur, E., Dall’Armellina, E., Lamata, P., Grau, V. (2016). Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest. In: Camara, O., Mansi, T., Pop, M., Rhode, K., Sermesant, M., Young, A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. STACOM 2015. Lecture Notes in Computer Science(), vol 9534. Springer, Cham. https://doi.org/10.1007/978-3-319-28712-6_20"
   year: 2016
-  webappname: "Online Access"
+  webappname: "STACOM Workshop Challenge: Online Access"
   webapplink: "https://doi.org/10.1007/978-3-319-28712-6_20"
   
 - id: Yang2021
