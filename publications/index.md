@@ -54,7 +54,7 @@ J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular
 </div>
 <!-- {% endraw %} -->
 
-<!-- #remove this to uncomment
+<!--
 <script> 
 // publication list
 var p = [
@@ -134,3 +134,4 @@ const app = Vue.createApp({
 app.component('Slider', VueformSlider)
 app.mount('#app')
 </script>
+-->
