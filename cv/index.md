@@ -6,8 +6,6 @@ author_profile: true
 
 *(updated: June 2022)*
 
-Jack Allen
-
 **Work Experience**
 
 September 2019 – April 2022. Research Associate.
