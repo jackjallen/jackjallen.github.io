@@ -134,4 +134,5 @@ const app = Vue.createApp({
 app.component('Slider', VueformSlider)
 app.mount('#app')
 </script>
---> <!-- #remove this line to uncomment
+-->
+<!-- #remove this line to uncomment -->
