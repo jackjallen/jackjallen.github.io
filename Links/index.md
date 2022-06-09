@@ -1,3 +1,8 @@
+---
+title: Links
+layout: academic
+author_profile: true
+---
 <a href="https://scholar.google.co.uk/citations?user=Jo57CzQAAAAJ&hl=en&oi=sra">Google Scholar Profile<a>
 
 <a href="https://www.linkedin.com/in/jjallen01/?trk=profile-badge&originalSubdomain=uk">LinkedIn Profile<a>
