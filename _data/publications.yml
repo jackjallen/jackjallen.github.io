@@ -13,13 +13,13 @@
 - id: Suinesiaputra2017
   text: "A. Suinesiaputra et al., Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge, in IEEE Journal of Biomedical and Health Informatics, vol. 22, no. 2, pp. 503-515, March 2018, doi: 10.1109/JBHI.2017.2652449."
   year: 2017
-  webappname: "doi"
+  webappname: "DOI"
   webapplink: "10.1109/JBHI.2017.2652449"
   
 - id: Allen2016
   text: Allen, J., Zacur, E., Dall’Armellina, E., Lamata, P., Grau, V. (2016). Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest. In: Camara, O., Mansi, T., Pop, M., Rhode, K., Sermesant, M., Young, A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. STACOM 2015. Lecture Notes in Computer Science(), vol 9534. Springer, Cham. https://doi.org/10.1007/978-3-319-28712-6_20"
   year: 2016
-  webappname: doi
+  webappname: "Online Access"
   webapplink: "https://doi.org/10.1007/978-3-319-28712-6_20"
   
   
