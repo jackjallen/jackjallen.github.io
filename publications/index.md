@@ -30,6 +30,7 @@ J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerpri
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
 
+<!--
 <!-- {% raw %} -->
 <div id="app">
     <div>
@@ -131,3 +132,4 @@ const app = Vue.createApp({
 app.component('Slider', VueformSlider)
 app.mount('#app')
 </script>
+-->
