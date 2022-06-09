@@ -29,9 +29,8 @@ J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerpri
 
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
-
-<!--
 <!-- {% raw %} -->
+<!--
 <div id="app">
     <div>
       <p><br></p>
@@ -53,7 +52,7 @@ J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular
 </div>
 <!-- {% endraw %} -->
 
-<script>
+<!--<script>
 // publication list
 var p = [
         {% for ms in site.data.publications %}{
