@@ -15,6 +15,8 @@ A. Suinesiaputra, …, J.Allen, …, P. Medrano-Gracia. “Statistical Shape Mod
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Venctricular Shapes Using a Random Forest”. Camara O., Mansi T., Pop M., Rhode K., Sermesant M., Young A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. Lecture Notes in Computer Science, 2016.
 
 ## Conferences
+S. Kukran, …, J. Allen, …, M. Grech-Sollars. "Mitigation of Magnetisation Transfer Effects Using Off-Resonance Pulses In MR Fingerprinting". ISMRM (programme number: 2598), 2022.
+
 G. Yang, …, J. Allen, …, J. Keegan. “Atrial Scar Segmentation from 3D Late Gadolinium Enhanced Datasets: Effect of Time After Contrast Injection”. SCMR, 2021.
 
 J. Allen, …, P. Gatehouse. “Blood-Focused Dynamic Inversion Times for 3D LGE Imaging: Initial Patient Demonstration”. Digital poster. ISMRM, 2021.
