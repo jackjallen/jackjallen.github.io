@@ -4,4 +4,8 @@ layout: academic
 author_profile: true
 ---
 
-CV
+Jack Allen
+
+Experience:
+- Research Associate. Imperial College London, UK.
+- DPhil (PhD), University of Oxford, UK.
