@@ -1,5 +1,9 @@
-#Talks
+---
+title: Talks
+layout: academic
+author_profile: true
+---
 
-## Education
+## Educational
 
 ## Research
