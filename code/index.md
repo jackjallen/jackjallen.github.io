@@ -10,7 +10,7 @@ author_profile: true
 
 **Description:**
     
-MATLAB code to make an animated GIF from a stack of images. Adapted from matlab file exchange: https://uk.mathworks.com/matlabcentral/answers/94495-how-can-i-create-animated-gif-images-in-matlab Animated gifs can also be made using 'ImageJ'.
+MATLAB code to make an animated GIF from a stack of images. Adapted from matlab file exchange: https://uk.mathworks.com/matlabcentral/answers/94495-how-can-i-create-animated-gif-images-in-matlab. Animated gifs can also be made using 'ImageJ'.
 
 
 
