@@ -3,7 +3,7 @@ title:
 layout: academic
 author_profile: true
 ---
-Background:
+Summary:
 - Sept 2019 - Apr 2022: Research Associate in Cardiac MRI Physics (Imperial College London, UK)
   - to improve Late Gadolinium-Enhanced Cardiac MRI image quality in the presence of irregular heart rhythms.
 
