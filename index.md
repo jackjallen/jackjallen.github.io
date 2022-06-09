@@ -7,5 +7,5 @@ I have a background in medical imaging research, particularly MRI Physics. My re
 
 Please feel free to contact me if you have any queries.
 
-date: "`r format(Sys.time(), '%B, %Y')`"
+format(Sys.Date(), "%b %d, %Y")
 
