@@ -23,7 +23,6 @@
   webappname: "Online Access"
   webapplink: "https://doi.org/10.1007/978-3-319-28712-6_20"
   
- # Conference Posters
 - id: Yang2021
   text: "Yang, G.,Chen, J.,Zhang, H., Wage, R., Allen, J., Wong, T., Mohiaddin, R., Firmin, D., Keegan, J. (2021). Atrial Scar Segmentation from 3D Late Gadolinium Enhanced Datasets: Effect of Time After Contrast Injection."
   year: 2021
