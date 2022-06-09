@@ -2,7 +2,7 @@
 main:
   - title: Publications
     url: /publications/
-  - Title: Talks
+  - title: Talks
     url: /Talks/
   - title: Code
     url: /code/
