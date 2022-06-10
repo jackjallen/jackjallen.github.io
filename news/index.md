@@ -17,5 +17,6 @@ Here are the 1st, 2nd and 3rd-placed entries (left to right):
 ![combinedImages](/assets/images/RBHresearchPhotoCompetitionCombinedPhotos.jpg)
 
 **2nd Sept 2019: began work as Research Associate at Imperial College London**
+I joined Prof. Jennifer Keegan at the Cardiac Magnetic Resonance (CMR) unit of the Royal Brompton hospital. to work on a BHF-funded project to improve the image quality of 3D Late Gadolinium-Enhanced (LGE) scans.
 
 
