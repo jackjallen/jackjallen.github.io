@@ -1,9 +1,9 @@
 # main links
-main:
   - name: Home
     link: /
   - title: Blog
     link: /blog.html
+main:
   - title: Publications
     url: /publications/
   - title: Talks
