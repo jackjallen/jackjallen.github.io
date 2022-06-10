@@ -6,6 +6,8 @@ main:
     url: /Talks/
   - title: Code
     url: /code/
+  - title: News
+    url: /news/
   - title: CV
     url: /cv/
   - title: Links
