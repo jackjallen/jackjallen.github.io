@@ -1,6 +1,6 @@
 ---
 title: News
-layout: posts
+layout: academic
 author_profile: true
 ---
 
