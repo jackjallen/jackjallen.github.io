@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 **March 2020: 3rd place in a research photo competition**
-In early 2020, I entered a competition for researchers at the Royal Brompton & Harefield NHS Fondation Trust. The theme was *"what does research mean to you"*
 
+The competition was open to all researchers of the Royal Brompton & Harefield NHS Fondation Trust. The theme was *"what does research mean to you"*
 
 My entry was called *Arrhythmia Peaks*. I generated it using my own Matlab code to simulation the MRI signal (specifically *Mz*) in the presence of an irregular heart rhythm. Each shade of grey represents the longitudinal magnetisation of a particular tissue type, demonstrating how it changes during the scan (left to right). These changes in signal lead to poor image quality.
 
