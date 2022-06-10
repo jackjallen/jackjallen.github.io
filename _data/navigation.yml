@@ -1,9 +1,9 @@
 # main links
 main:
   - title: Home
-    link: /
+    url: /
   - title: Blog
-    link: /blog.html
+    url: /blog.html
   - title: Publications
     url: /publications/
   - title: Talks
