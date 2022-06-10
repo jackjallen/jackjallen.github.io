@@ -1,5 +1,5 @@
 ---
 title: News
-layout: posts
+layout: post
 author_profile: true
 ---
