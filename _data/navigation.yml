@@ -1,14 +1,16 @@
 # main links
 
 main:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
   - title: Publications
     url: /publications/
   - title: Talks
     url: /Talks/
   - title: Code
     url: /code/
-  - title: Blog
-    url: /blog/
   - title: CV
     url: /cv/
   - title: Links
