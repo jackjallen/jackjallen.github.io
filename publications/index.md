@@ -4,6 +4,7 @@ layout: academic
 author_profile: true
 ---
 
+<!--
 <html>
 <body>
 
@@ -13,8 +14,9 @@ author_profile: true
  
 </body>
 </html> 
+-->
 
-[Click to search the publications by year, author](JAbib.html)
+[Click here to group the publications by year or author (BibBase)](JAbib.html)
 
 ## PhD Thesis
 J. Allen. “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
