@@ -8,10 +8,8 @@ author_profile: true
 <html>
 <body>
 
- test iframe 100pc
- 
-<iframe style="position: absolute; height: 100%; border: none" src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8977552%2Fcollections%2FU9LKE4WR%2Fitems%3Fkey%3DRz23P0o82UTav1awtfi3IlzI%26format%3Dbibtex%26limit%3D100"></iframe> 
- 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8977552%2Fcollections%2FU9LKE4WR%2Fitems%3Fkey%3DRz23P0o82UTav1awtfi3IlzI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script> 
+
 </body>
 </html> 
 -->
