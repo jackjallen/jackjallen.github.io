@@ -10,7 +10,7 @@ author_profile: true
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8977552%2Fcollections%2FU9LKE4WR%2Fitems%3Fkey%3DRz23P0o82UTav1awtfi3IlzI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script> 
+<?php $contents = file_get_contents("https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8977552%2Fcollections%2FU9LKE4WR%2Fitems%3Fkey%3DRz23P0o82UTav1awtfi3IlzI%26format%3Dbibtex%26limit%3D100"); print_r($contents); ?>
  
 </body>
 </html> 
