@@ -44,7 +44,7 @@ J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerpri
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
 ## Not Accepted
-J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. Poster. ISMRM, 2018 <b> Not Accepted </b>.
+J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 <b> Abstract not accepted </b>.
 
 <!-- {% raw %} -->
 <!-- #JA: remove this to uncomment
