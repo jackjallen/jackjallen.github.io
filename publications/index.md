@@ -37,13 +37,14 @@ J. Allen, …, P. Gatehouse. “Dynamic Inversion Times for 3D LGE Imaging, usin
 
 J. Allen, …, J. Keegan. “Improved Image Quality for 3D LGE Scar Imaging in Patients with Fast and Variable Heart Rate: a Simulation Study”. Digital poster. ISMRM, 2020.
 
-J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. Poster. ISMRM, 2018.
-
 J. Allen, …, P. Jezzard. “Estimating MRF Time Point Importance by Random Forest Classification”. Poster. ISMRM MR Fingerprinting workshop, 2017.
 
 J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerprinting Pulse Sequence Designs”. Poster. ISMRM, 2017.
 
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
+
+## Not Accepted
+J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. Poster. ISMRM, 2018 <b> Not Accepted </b>.
 
 <!-- {% raw %} -->
 <!-- #JA: remove this to uncomment
