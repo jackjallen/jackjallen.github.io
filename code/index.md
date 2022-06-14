@@ -7,6 +7,8 @@ author_profile: true
 Feel free to make use of the code below if you would like. Citation or acknowledgment would be gratefully received, where appropriate.
 Unfortunately I can't guarantee the absence of errors or 'bugs'. Please contact me regarding any issues or suggestions.
 
+---
+
 **Title:** *make_gif_3DLGE.m*
 
 **Link:** <a href="make_gif_3DLGE/make_gif_3DLGE.zip">make_gif_3DLGE.m<a>
@@ -16,7 +18,7 @@ Unfortunately I can't guarantee the absence of errors or 'bugs'. Please contact 
 **Description:** 
 MATLAB code to make an animated GIF from a stack of images. Adapted from matlab file exchange: https://uk.mathworks.com/matlabcentral/answers/94495-how-can-i-create-animated-gif-images-in-matlab. Animations can also be made using 'ImageJ' software.
 
-
+---
 
 <!-- {% raw %} -->
 <div id="app">
