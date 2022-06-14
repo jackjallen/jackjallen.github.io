@@ -44,7 +44,7 @@ J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular
 ## Other
 J. Allen, …, Sonya V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (<b>submitted February 2022, currently under review</b>).
 
-J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>Abstract not accepted</b>).
+J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>abstract not accepted</b>).
 
 <!-- {% raw %} -->
 <!-- #JA: remove this to uncomment
