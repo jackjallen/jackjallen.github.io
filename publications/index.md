@@ -14,7 +14,7 @@ author_profile: true
 </html> 
 -->
 
-[Click here for full publication details and to group by year or author (BibBase)](JackAllenPublicationsBibBase.html)
+[Click here for full BibTex details and to group by year or author (BibBase)](JackAllenPublicationsBibBase.html)
 
 ## PhD Thesis
 J. Allen. “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
@@ -43,7 +43,7 @@ J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerpri
 
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
-## Not Accepted
+## Other
 J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 <b> Abstract not accepted </b>.
 
 <!-- {% raw %} -->
