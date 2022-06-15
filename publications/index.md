@@ -14,7 +14,7 @@ author_profile: true
 </html> 
 -->
 
-[Click here for full BibTex details and to group by year or author (BibBase)](JackAllenPublicationsBibBase.html)
+[Click here for full BibTex details of published work.](JackAllenPublicationsBibBase.html)
 
 ## PhD Thesis
 **J. Allen.** “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
