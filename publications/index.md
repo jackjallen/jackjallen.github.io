@@ -41,10 +41,13 @@ G. Yang, …, **J. Allen**, …, J. Keegan. “Atrial Scar Segmentation from 3D 
 
 **J. Allen**, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
-## MSci Final-Year Project
-**J. Allen** "The Characterisation of a New Environmentally Sensitive Membrane Dye (di-2-ANBDQ(F)PTEA". Supervisor: Dr. Dylan Owen. Physics MSci final-year project, King's College London, 2014. (unpublished, submitted as part of MSci course)
+
 
 ## Other
+
+### MSci Final-Year Project
+**J. Allen** "The Characterisation of a New Environmentally Sensitive Membrane Dye (di-2-ANBDQ(F)PTEA". Supervisor: Dr. Dylan Owen. Physics MSci final-year project, King's College London, 2014. (unpublished, submitted as part of MSci course)
+
 **J. Allen**, …, S. V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal technical note <b>submitted February 2022, currently under review</b>).
 
 **J. Allen**, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>abstract not accepted</b>).
