@@ -39,7 +39,7 @@ Oxford-Nottingham Biomedical Imaging (ONBI) Centre for Doctoral Training (CDT).
 
 **Publications**
 
-_see_ <a href="/jackjallen.github.io/publications/">_publications_</a> _page._
+_see_ <a href="/publications/">_publications_</a> _page._
 
 **Awards & Funding**
 - Education Stipend. ISMRM annual meeting, 2017, 2020.
