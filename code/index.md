@@ -4,7 +4,7 @@ layout: academic
 author_profile: true
 ---
 
-Feel free to make use of the code below if you would like. Citation or acknowledgment would be gratefully received, where appropriate.
+Feel free to make use of the code below. Citation or acknowledgment would be gratefully received, where appropriate.
 Unfortunately I can't guarantee the absence of errors or 'bugs'. Please contact me regarding any issues or suggestions.
 
 ---
