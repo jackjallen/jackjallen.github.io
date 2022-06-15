@@ -17,34 +17,34 @@ author_profile: true
 [Click here for full BibTex details and to group by year or author (BibBase)](JackAllenPublicationsBibBase.html)
 
 ## PhD Thesis
-J. Allen. “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
+**J. Allen.** “An Optimisation Framework for Magnetic Resonance Fingerprinting”. PhD Thesis, University of Oxford, 2019. Supervisors: Dr. James Kennedy & Prof. Peter Jezzard.
 
 ## Journal Articles
-A. Suinesiaputra, …, J.Allen, …, P. Medrano-Gracia. “Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge”. IEEE Journal of Biomedical and Health Informatics, 2018.
+A. Suinesiaputra, …, **J. Allen**, …, P. Medrano-Gracia. “Statistical Shape Modeling of the Left Ventricle: Myocardial Infarct Classification Challenge”. IEEE Journal of Biomedical and Health Informatics, 2018.
 
-J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Venctricular Shapes Using a Random Forest”. Camara O., Mansi T., Pop M., Rhode K., Sermesant M., Young A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. Lecture Notes in Computer Science, 2016.
+**J. Allen**, …, V. Grau. “Myocardial Infarction Detection from Left Venctricular Shapes Using a Random Forest”. Camara O., Mansi T., Pop M., Rhode K., Sermesant M., Young A. (eds) Statistical Atlases and Computational Models of the Heart. Imaging and Modelling Challenges. Lecture Notes in Computer Science, 2016.
 
 ## Conferences
-S. Kukran, …, J. Allen, …, M. Grech-Sollars. "Mitigation of Magnetisation Transfer Effects Using Off-Resonance Pulses In MR Fingerprinting". ISMRM (programme number: 2598), 2022.
+S. Kukran, …, **J. Allen**, …, M. Grech-Sollars. "Mitigation of Magnetisation Transfer Effects Using Off-Resonance Pulses In MR Fingerprinting". ISMRM (programme number: 2598), 2022.
 
-G. Yang, …, J. Allen, …, J. Keegan. “Atrial Scar Segmentation from 3D Late Gadolinium Enhanced Datasets: Effect of Time After Contrast Injection”. SCMR, 2021.
+G. Yang, …, **J. Allen**, …, J. Keegan. “Atrial Scar Segmentation from 3D Late Gadolinium Enhanced Datasets: Effect of Time After Contrast Injection”. SCMR, 2021.
 
-J. Allen, …, P. Gatehouse. “Blood-Focused Dynamic Inversion Times for 3D LGE Imaging: Initial Patient Demonstration”. Digital poster. ISMRM, 2021.
+**J. Allen**, …, P. Gatehouse. “Blood-Focused Dynamic Inversion Times for 3D LGE Imaging: Initial Patient Demonstration”. Digital poster. ISMRM, 2021.
 
-J. Allen, …, P. Gatehouse. “Dynamic Inversion Times for 3D LGE Imaging, using a Blood-Focused Algorithm: Initial Patient Demonstration”. Digital poster. Postgraduate meeting of the British, Irish & Iberian chapters of the ISMRM, 2021.
+**J. Allen**, …, P. Gatehouse. “Dynamic Inversion Times for 3D LGE Imaging, using a Blood-Focused Algorithm: Initial Patient Demonstration”. Digital poster. Postgraduate meeting of the British, Irish & Iberian chapters of the ISMRM, 2021.
 
-J. Allen, …, J. Keegan. “Improved Image Quality for 3D LGE Scar Imaging in Patients with Fast and Variable Heart Rate: a Simulation Study”. Digital poster. ISMRM, 2020.
+**J. Allen**, …, J. Keegan. “Improved Image Quality for 3D LGE Scar Imaging in Patients with Fast and Variable Heart Rate: a Simulation Study”. Digital poster. ISMRM, 2020.
 
-J. Allen, …, P. Jezzard. “Estimating MRF Time Point Importance by Random Forest Classification”. Poster. ISMRM MR Fingerprinting workshop, 2017.
+**J. Allen**, …, P. Jezzard. “Estimating MRF Time Point Importance by Random Forest Classification”. Poster. ISMRM MR Fingerprinting workshop, 2017.
 
-J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerprinting Pulse Sequence Designs”. Poster. ISMRM, 2017.
+**J. Allen**, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerprinting Pulse Sequence Designs”. Poster. ISMRM, 2017.
 
-J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
+**J. Allen**, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
 ## Other
-J. Allen, …, S. V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal article <b>submitted February 2022, currently under review</b>).
+**J. Allen**, …, S. V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal article <b>submitted February 2022, currently under review</b>).
 
-J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>abstract not accepted</b>).
+**J. Allen**, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>abstract not accepted</b>).
 
 <!-- {% raw %} -->
 <!-- #JA: remove this to uncomment
