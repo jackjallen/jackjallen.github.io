@@ -50,7 +50,7 @@ G. Yang, …, **J. Allen**, …, J. Keegan. “Atrial Scar Segmentation from 3D 
 
 **J. Allen** "The Characterisation of a New Environmentally Sensitive Membrane Dye (di-2-ANBDQ(F)PTEA". Supervisor: Dr. Dylan Owen. Physics MSci final-year project, King's College London, 2014. (**unpublished, submitted as part of MSci course**)
 
-<p style="color: purple">This is a purple paragraph.</p>
+<!-- <p style="color: purple">This is a purple paragraph.</p> -->
 
 <!-- {% raw %} -->
 <!-- #JA: remove this to uncomment
