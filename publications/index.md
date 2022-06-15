@@ -42,7 +42,7 @@ J. Allen, …, P. Jezzard. “A Comparison of Optimised Single-Shot MR Fingerpri
 J. Allen, …, V. Grau. “Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest”. Poster. STACOM workshop, in conjunction with MICCAI 2015.
 
 ## Other
-J. Allen, …, Sonya V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal article <b>submitted February 2022, currently under review</b>).
+J. Allen, …, S. V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal article <b>submitted February 2022, currently under review</b>).
 
 J. Allen, …, P. Jezzard. “Time-efficient Single-Shot Spin-Echo Magnetic Resonance Fingerprinting (MRF)”. ISMRM, 2018 (<b>abstract not accepted</b>).
 
