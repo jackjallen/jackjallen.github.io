@@ -43,7 +43,7 @@ G. Yang, …, **J. Allen**, …, J. Keegan. “Atrial Scar Segmentation from 3D 
 
 {::comment}
 ## MSci Final-Year Project
-{:/comment}
+**J.Allen** "The Characterisation of a New Environmentally Sensitive Membrane Dye (di-2-ANBDQ(F)PTEA". Supervisor: Dr. Dylan Owen. Physics MSci final-year project, King's College London, 2014. (unpublished, submitted as part of MSci course)
 
 ## Other
 **J. Allen**, …, S. V. Babu-Narayan. “Fully-Modelled Blood-Focused Variable Inversion Times for 3D Late Gadolinium-Enhanced Imaging”. Magnetic Resonance Imaging (Journal article <b>submitted February 2022, currently under review</b>).
