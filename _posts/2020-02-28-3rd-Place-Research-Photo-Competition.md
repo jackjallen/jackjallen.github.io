@@ -1,7 +1,7 @@
 ---
 layout: posts
 author: Jack
-title:  "3rd place in a research photo competition"
+title:  "Research photo competition: 3rd place"
 ---
 
 **March 2020: 3rd place in a research photo competition**
