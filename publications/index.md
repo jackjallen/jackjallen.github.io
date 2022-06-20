@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Research output
 layout: academic
 author_profile: true
 ---
