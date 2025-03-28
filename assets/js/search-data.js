@@ -31,10 +31,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ISMRM2025_abstract_accepted/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-presented-a-poster-at-the-nihr-brc-imaging-meeting",
+          title: 'Presented a poster at the NIHR BRC imaging meeting',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/presented_a_poster_at_NIHR_BRC_imaging_meeting/";
+            },},{
         id: 'social-email',
         title: 'Email',
         section: 'Socials',
