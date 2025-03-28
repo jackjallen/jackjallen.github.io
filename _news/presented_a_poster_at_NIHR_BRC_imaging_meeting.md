@@ -7,7 +7,7 @@ related_posts: true
 ---
 
 Title:
-"Accelerated T2 mapping for quantitative clinical brain MRI: a two-scanner phantom study comparing MR Fingerprinting with conventional multi-echo methods."
+*Accelerated T2 mapping for quantitative clinical brain MRI: a two-scanner phantom study comparing MR Fingerprinting with conventional multi-echo methods.*
 
 Authors:
 Jack J. Allen, Joely Smith, Stephen J. Wastling, Marzena Arridge, Anastasia Papadaki, Laura Mancini, Iulius Dragonu, Tom Hilbert, John S. Thornton, Tarek Yousry, David L. Thomas, and Matthew Grech-Sollars.
