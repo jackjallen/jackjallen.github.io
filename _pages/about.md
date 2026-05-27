@@ -10,7 +10,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m a medical imaging researcher, motivated to use quantitative techniques to improve healthcare. I'm also interested in the interplay between medical imaging and artistic design.
 
-Currently, I'm a Research Fellow at [University College London](https://profiles.ucl.ac.uk/97450-jack-allen), working on quantitative MRI (including brain T2 mapping, Dynamic Contrast-Enhanced (DCE) brain MRI, functional lung MRI, Oxygen-enhanced (OE) MRI). Before this, I worked on cardiac MRI research at the [Royal Brompton Hospital](https://www.rbht.nhs.uk/our-services/heart/heart-assessment/cardiovascular-magnetic-resonance-cmr-unit). I have also studied Physics (MSci) at King’s College London and Biomedical Imaging (DPhil) at the University of Oxford, including projects in fluorescence microscopy and cardiac shape analysis.
+Currently, I'm a Research Fellow at [University College London](https://profiles.ucl.ac.uk/97450-jack-allen), working on quantitative MRI (including brain T2 mapping, Dynamic Contrast-Enhanced (DCE) brain MRI, functional lung MRI, oxygen-enhanced (OE) MRI). Before this, I worked on cardiac MRI research at the [Royal Brompton Hospital](https://www.rbht.nhs.uk/our-services/heart/heart-assessment/cardiovascular-magnetic-resonance-cmr-unit). I have also studied Physics (MSci) at King’s College London and Biomedical Imaging (DPhil) at the University of Oxford, including projects in fluorescence microscopy and cardiac shape analysis.
 
 Feel free to [contact me](mailto:j.j.allen@hotmail.co.uk) if you have any queries or suggestions.
 
